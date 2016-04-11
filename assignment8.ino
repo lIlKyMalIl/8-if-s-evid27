@@ -30,6 +30,4 @@ void loop() {
     folkracer.rotate(-90);
     folkracer.setSpeed(0.5);
   }  
-  }
-  
 }
